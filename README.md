@@ -1,6 +1,6 @@
 # Hateful_Memes
 
-Th repository contains codes I used to get to rank 60 in the follwoing compitition:
+Th repository contains codes I used to get to rank 55 in the follwoing compitition:
 https://www.drivendata.org/competitions/70/hateful-memes-phase-2/ my username there is bkhanji, the compition is sponsored by facebook and it has more than 3000 contestant/teams.
 
 The code is python-based and it is split into two phases:
